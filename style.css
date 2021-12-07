@@ -15,8 +15,8 @@ body {
     padding: 10px;
 }
 
-#site-name {
-    font-weight: bold;
+h1 {
+    font-weight: bolder;
 }
 
 #nav {
