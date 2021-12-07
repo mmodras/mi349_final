@@ -49,3 +49,16 @@ h1 {
 #chelsea-logo-id {
     float: right;
 }
+
+#main {
+    background-color: #0077B6;
+    color: white;
+}
+
+#recent-news {
+    text-align: left;
+}
+
+#recemt-results {
+    text-align: right;
+}
