@@ -18,6 +18,15 @@ body {
 #nav {
     color: white;
     font-size: 150%;
-    padding: 20px;
-    margin: 10px;
+    display: flex;
+}
+
+#nav a {
+    flex-grow: 3;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
 }
