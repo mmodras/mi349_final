@@ -14,3 +14,8 @@ body {
     color: white;
     padding: 10px;
 }
+
+#nav {
+    color: white;
+    font-size: 50%;
+}
