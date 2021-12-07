@@ -18,15 +18,29 @@ body {
 #nav {
     color: white;
     font-size: 150%;
-    display: flex;
 }
 
 #nav a {
-    flex-grow: 3;
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
     text-align: left;
+}
+
+#nav a:link {
+    color: white;
+}
+
+#nav a:visited {
+    color: white;
+}
+
+#nav a:hover {
+    color: #0077B6;
+}
+
+#nav a:active {
+    color: white;
 }
