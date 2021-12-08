@@ -110,3 +110,9 @@ h1 {
 .result {
     margin-bottom: 35px;
 }
+
+.result td {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+}
