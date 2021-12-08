@@ -108,5 +108,9 @@ h1 {
 }
 
 .result {
-    margin-bottom: 25px;
+    margin-bottom: 35px;
+}
+
+.result p {
+    margin: 7px;
 }
