@@ -55,6 +55,8 @@ h1 {
     display: grid;
     grid-template-columns: .80fr 0px;
     grid-template-rows: 30px 1000px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .box1 {
