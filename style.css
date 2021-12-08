@@ -111,6 +111,7 @@ h1 {
     margin-bottom: 35px;
 }
 
-.result p {
+.result pre {
     margin: 7px;
+    font-family: Arial, Helvetica, sans-serif;
 }
