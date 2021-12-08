@@ -53,8 +53,8 @@ h1 {
 
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 10px 1000px;
+    grid-template-columns: .80fr 0px;
+    grid-template-rows: 30px 1000px;
 }
 
 .box1 {
