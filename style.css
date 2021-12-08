@@ -125,7 +125,6 @@ h1 {
     font-size: 120%;
     padding-top: 20px;
     padding-bottom: 20px;
-    border-top: 3px solid black;
 }
 
 #enter {
@@ -136,4 +135,10 @@ h1 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+#bottom-border {
+    background-color: #023E8A;
+    border-top: 3px solid black;
+    
 }
