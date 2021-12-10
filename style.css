@@ -192,5 +192,16 @@ h1 {
         height: 75%;
     }
 
-    
+    body {
+        font-size: 75%;
+    }
+
+    header {
+        font-size: 75%;
+    }
+
+    .merch-grid img {
+        width: 75%;
+        height: 75%;
+    }
 }
