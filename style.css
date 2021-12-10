@@ -185,3 +185,12 @@ h1 {
 .pdf a:active {
     color: white;
 }
+
+@media (max-width: 600px) {
+    header img {
+        width: 75%;
+        height: 75%;
+    }
+
+    
+}
