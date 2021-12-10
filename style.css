@@ -154,6 +154,7 @@ h1 {
 
 .merch {
     text-align: center;
+    margin: 30px;
 }
 
 .merch img {
@@ -162,6 +163,6 @@ h1 {
 
 #merch-bottom {
     background-color: #0077B6;
-    padding-bottom: 10px;
-    border-top: 5px solid black;
+    padding-bottom: 30px;
+    border-top: 3px solid black;
 }
