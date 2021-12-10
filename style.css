@@ -149,6 +149,7 @@ h1 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #0077B6;
+    padding-top: 10px;
 }
 
 .merch {
@@ -156,5 +157,11 @@ h1 {
 }
 
 .merch img {
-    border: 1px solid black;
+    border: 3px solid black;
+}
+
+#merch-bottom {
+    background-color: #0077B6;
+    padding-bottom: 10px;
+    border-top: 5px solid black;
 }
